@@ -142,7 +142,7 @@ body {
 	width: 109px;
 	height: 50px;
 
-}\
+}
 .type1 {
 	list-style-image: url(images/arrow_c.gif);
 }
@@ -157,12 +157,7 @@ body {
 }
 #content #category ul{
 	margin: 0px;
-
-
-
-	padding: 15px
-*;
-	padding: 15px20px0 35px;
+	padding: 15px 20px 0px 35px;
 	border-left-width: 1px;
 	border-left-style: dotted;
 	border-left-color: #666;
