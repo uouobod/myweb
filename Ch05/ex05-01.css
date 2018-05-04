@@ -141,4 +141,33 @@ body {
 	background-repeat: no-repeat;	
 	width: 109px;
 	height: 50px;
+
+}\
+.type1 {
+	list-style-image: url(images/arrow_c.gif);
+}
+.type2 {
+	list-style-image: url(images/arrow_k.gif);
+}
+.type3 {
+	list-style-image: url(images/arrow_m.gif);
+}
+.type4 {
+	list-style-image: url(images/arrow_y.gif);
+}
+#content #category ul{
+	margin: 0px;
+
+
+
+	padding: 15px
+*;
+	padding: 15px20px0 35px;
+	border-left-width: 1px;
+	border-left-style: dotted;
+	border-left-color: #666;
+}
+#content #category li{
+	line-height: 1.5em;
+	padding-bottom: 15px;
 }
